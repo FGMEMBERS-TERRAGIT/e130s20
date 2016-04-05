@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 130.856944 -12.406667 15.12 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac 130.8441441 -12.4600352 -377.81 90
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac 130.843004 -12.4611366 -378.34 90
+OBJECT_SHARED Models/Airport/localizer.xml 130.862778 -12.408611 27.25 18.96
